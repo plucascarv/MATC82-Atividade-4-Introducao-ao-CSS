@@ -1,0 +1,1 @@
+Neste repositório armazeno a versão da atividade 4 da matéria MATC82 - Sistemas Web na Universidade Federal da Bahia, onde era pedido para estilizar uma página HTML de um blog de notícias fictício.
