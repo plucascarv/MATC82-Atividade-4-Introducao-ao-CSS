@@ -1,0 +1,50 @@
+/* STYLE RESET */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Vollkorn", "Georgia", sans-serif;
+}
+
+h1, h2, h3, ul, li, p {
+  margin: 0px;
+  padding: 0px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  display: block;
+}
+
+/* UTILITARIOS */
+.sec-title {
+  font-size: 2rem;
+  padding: 20px 0px;
+  font-style: italic;
+  letter-spacing: 0.5px;
+}
+
+.sec-title-s {
+  font-size: 1.5rem;
+  padding: 20px 0px 0px 0px;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
+.container {
+  box-sizing: border-box;
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f7f7f7;
+  box-shadow: 5px 5px 15px 15px rgba(44, 44, 44, 0.15);
+}
